@@ -1,0 +1,9 @@
+pydantic
+apache-airflow
+dbt-core
+great_expectations
+openlineage-airflow
+psycopg2-binary
+streamlit
+pandas
+requests
