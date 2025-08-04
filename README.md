@@ -3,8 +3,8 @@ A modular data pipeline for validating, transforming, and tracking financial dat
 
 ##📁 Project Structure
 
-financial-data-quality-pipeline/
-│
+financial-data-quality-pipeline/                                                                                                                                   
+│                                                                                                                                                                   
 ├── README.md
 ├── LICENSE
 ├── .gitignore
